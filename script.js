@@ -22,5 +22,5 @@ const countdown = () => {
   document.getElementById("minutes").innerHTML = timeMinutes;
   document.getElementById("seconds").innerHTML = timeSeconds;
 };
-
+countdown();
 setInterval(countdown, 1000);
