@@ -13,7 +13,7 @@ const countdown = () => {
   let timeMinutes = Math.floor((difference % hours) / minutes);
   let timeSeconds = Math.floor((difference % minutes) / seconds);
 
-  timehours = timeHours < 10 ? "0" + timeHours : timehours;
+  timeHours = timeHours < 10 ? "0" + timeHours : timeHours;
   timeMinutes = timeMinutes < 10 ? "0" + timeMinutes : timeMinutes;
   timeSeconds = timeSeconds < 10 ? "0" + timeSeconds : timeSeconds;
 
