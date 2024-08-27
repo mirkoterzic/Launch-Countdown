@@ -6,7 +6,7 @@ This is a challenge from  **<a href="https://www.frontendmentor.io/challenges/la
 
 ## Live Demo
 
-**[You can view the live demo of the project here](https://mirkoterzic.github.io/launch-countdown-timer).**
+**[You can view the live demo of the project here]( https://mirkoterzic.github.io/Launch-Countdown/).**
 
 ## Features
 
